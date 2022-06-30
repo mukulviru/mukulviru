@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mukul Anand Bagde
-- 🌱 I’m currently learning ...Laravel
+- 🌱 I’m currently learning ...Laravel & Aimeos
 - 📫 How to reach me ...mukulanandbagde@gmail.com
 
 <!---
